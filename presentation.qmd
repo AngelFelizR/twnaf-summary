@@ -1,0 +1,193 @@
+---
+title: "El mundo necesita un padre"
+author: "Angel Feliz"
+lang: es
+format: 
+  html:
+    output-file: "El mundo necesita un padre - Resumen.html"
+    embed-resources: TRUE
+    fig-align: center
+    fig-width: 8
+    fig-height: 5
+---
+
+## Prefacio
+
+<br>
+<br>
+
+*La única cosa necesaria para que el mal triunfe es que los hombres de buenos no hagan nada.*
+
+**Edmund Burke**
+
+
+## 01 - !Satanás vieno a la tierra, señor!
+
+<br>
+
+- Narra una historia muy violeta en Africa.
+- Algunos de los jovenes que realizarón el acto frequentaban la iglesia
+- Dios le reveló a Cassie que la ausencia fue la causa.
+- Para entrenar a los jovenes es necesario mostrar **ejemplos que puedan imitar**.
+
+
+## 01 - !Satanás vieno a la tierra, señor!
+
+<br>
+
+Basado en Luchas 1:17 tenemos los siguientes puntos:
+
+1. Volver los **corazones de los padres hacia los hijos**.
+2. Volver al **desobediente** hacia la **sabiduría de Dios**.
+3. Preparar a las personas para que estén **listas para el Señor**.
+
+## 02 - El clamor de los niños
+
+<br>
+
+Los hombres se han distinguido por ser un mal ejemplo para sociadad:
+
+- [70% - 90%] de los crímenes mayores
+- 97%  de los violadores
+- 75% de conductores borrachos
+
+## 02 - El clamor de los niños
+
+<br>
+
+_Los padres han_ **delegado** _demasido de la crianza a las_ **madres**. El libro presenta algunas estadísticas que distinguen a los niños que se crian sin sus padres, esto distinguen al:
+
+- 63% de los suicidios
+- 80% de los violadores
+- Tienen el doble de problemas emocionales y conducta
+- Tienen una tasa de termino educativo más bajo
+- Son más dados a usar drogas
+
+## 02 - El clamor de los niños
+
+<br>
+
+Por otra parte en esta demostado que si los padres están presentes podemos ver que los hijos:
+
+- Son más resistentes ante situacione extresantes
+- Son más capaces de solucionar problemas y adaptarnos
+- Tienen mayor habilidad para tomar iniciativa
+- Tienen relaciones positivas, son populares y queridos
+
+
+## 02 - El clamor de los niños
+
+<br>
+
+Por otra parte en esta demostado que si los padres están presentes podemos ver que los hijos:
+
+- Tienen amistades de largo plazo
+- Tienen matrimonios exitosos
+- Son menos propensos a morir en la infancia (1.8 veces menos)
+- Son menos propensos a sufrir de asma
+- Son menos propensos a ser obesos
+
+
+## 02 - El clamor de los niños
+
+<br>
+
+*La primera percepción que tienen los hijos sobre Dios está relacionada con la manera en que los tratos*, por lo que dependiendo de nuestro trato nuestros hijos pueden entender que **Dios padre** es:
+
+- Ausente o desconectado
+- Permisivo
+- Negligente
+- Emocional
+
+
+## 03 - Cada época cuenta
+
+<br>
+
+*Es necesario que seamos moldeados por personas con roles específicos durante cada etapa* para evitar ser marcodos con **cicatrices** al largo plazo.
+
+![](img/people-impect-through-life.webp)
+
+Tal como puede ver en el diagrama cada etapa cuenta con actor principal, que tiene funciones indispensables para esas edades.
+
+## 03 - Cada época cuenta: Madre (0-5 años)
+
+<br>
+
+|Años|Objetivos|
+|:--|:---|
+|[0-1]|- Transmitir intimidad al bebe mediante el **contacto piel a piel**, para desarrollar la **intimidad emocianal** y el sentido de **general confianza** en la vida. <br> - Transmitir **sentido de pertenencia** a la familia.|
+|[2-3]|- **Enseñar autonomía** y consecuencias mediante la apertura a la toma de decisiones. <br> - **Moldear la voluntad** del niño sin quebrantar su espíritu.|
+|[4-5]|- **Crear confianza** en sus habilidades **físicas** mediante la asignación de tareas. <br> - **Crear confianza** en sus habilidades **intelectuales** mediante conversaciones más complejas y la estimulación de la imaginación.|
+
+
+## 03 - Cada época cuenta: Padre (6-11 años)
+
+<br>
+
+|Años|Objetivos|
+|:--|:---|
+|[6-8]|- Afirmar las fortalezas <br> - Enseñar habilidades básicas para la vida <br> - Definir su indentidad espiritual <br> - Iniciar las clases de educación sexual con los hijos **del mismo sexo**. |
+|[9-11]|- **Las madres apoyan** a las incertidumbres de las hijas al llegar a la pubertad. <br> - **Los padres afirman** la belleza de sus hijas y las destrezas de sus hijos sin luegar a **comentarios negativos**. <br> - Desarrollar sentido de indentidad. <br> - **Afirmar los valores** que deben regir su vida. <br> - Definir los **principios para las interacciones sociales** (como hacer amigos)|
+
+
+## 03 - Cada época cuenta: Grupo (12-18 años)
+
+<br>
+
+Durante esta etapa los padres deben *hábilmente* **auditar** e **impactar** al grupo de amigos para que adopten los valores correctos.
+
+|Años|Objetivos|
+|:--|:---|
+|[12]|- Decifrar dónde encajan es la búsqueda más escencial.|
+|[13]|- Los padres deben dejar de tratar como un niño al adolescente y dejarselo saber. (*Cap. 13*)|
+|[14-18]|- Desarrollar capacidad de liderazgo e inteligencia emocional.|
+
+## 03 - Cada época cuenta: Padre (19-21 años)
+
+<br>
+
+|Años|Objetivos|
+|:--|:---|
+|[19-20]|- Objetivo principal es establer la **identidad personal** (*Cap. 7*) y crear una contribución significativa en la vida. <br> - Los padres son la fuente de sabiduría para prepararse la vida adulta.|
+|[21]|- El padre de afirmar la confiza que tiene en su hijo como un adulto (*Cap 9*).|
+
+
+## 03 - Cada época cuenta: tiempo de éxito (22-42 años)
+
+<br>
+
+|Años|Objetivos|
+|:--|:---|
+|[22-25]|- El hijo determina a la subcultura a la que pertence y con quien se casará.|
+|[26-42]|- Vivimos de manera apresurada, apasida, agerrida, dando **nuestro mejor esfuerzo**, afinando nuestro enfoque y **acumulando poseciones** <br> - Luego tenemos que enfrentar la realidad, devidir nuestro tiempo entre **trabajo** y **familia**, definimos el exito deseado y comenzamos a buscar nuestro **significado**.|
+
+
+## 03 - Cada época cuenta: Medio tiempo (43-48 años)
+
+<br>
+
+*En este etapa tomamos una pausa para evaluar la manera en la que hemos vivido hasta el momento y comenzamos a pensar en el legado que queremos dejar* Ante esto tenemos tres alternativas: 
+
+- Continuar como vamos con **indiferencia** sin ninguna visión o pasión.
+- Te enfocas satisfacer tus necesidades acumlando poseciones.
+- Te enforcas en **enfluenciar** a otros para bien.
+
+*Esta etapa puede ocurrir más tarde en mujeres con varios hijos.*
+
+
+## 03 - Cada época cuenta: Segunda mitad (49-70 años)
+
+<br>
+
+*El resultado del medio tiempo es vivir en la plenitud del próposito que queremos lograr*.
+
+
+## 03 - Cada época cuenta: Segunda mitad (71 o más años)
+
+<br>
+
+- Podemos movernos a modo de superviviencia.
+- Podemos motivar a otros a seguir nuestra misión.
+
+
